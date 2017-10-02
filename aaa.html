@@ -1,0 +1,16 @@
+<script type="text/javascript" src="css/jquery/jquery.min.js"></script>
+<script language="javascript">
+function recargar(){    
+       /// Aqui podemos enviarle alguna variable a nuestro script PHP
+    var variable_post="Mi texto recargado";
+       /// Invocamos a nuestro script PHP
+    $.post("per.php", { variable: variable_post }, function(data){
+       /// Ponemos la respuesta de nuestro script en el DIV recargado
+    $("#recargado").html(data);
+    });         
+}
+</script>
+<div id="recargado">Mi texto sin recargar</div>
+<p align="center">
+    <a href="#" onclick="javascript:recargar();">recargar</a>
+</p>

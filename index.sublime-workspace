@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"id_nom_formacion"
+			],
+			[
+				"nu",
+				"num_ficha"
+			],
+			[
+				"tb_",
+				"tb_personal"
+			],
+			[
+				"num",
+				"num_doc"
+			],
+			[
+				"fec",
+				"fecha_salida"
+			],
+			[
+				"fe",
+				"fecha_ingreso"
+			],
+			[
+				"S",
+				"SET"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"nom",
+				"nom_per"
+			],
+			[
+				"id_",
+				"id_tip_equipo"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"c",
+				"con\tfunction __construct"
+			],
+			[
+				"co",
+				"contenio"
+			],
+			[
+				"in",
+				"inser"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"text",
+				"text-align-last"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"res",
+				"respuesta"
+			],
+			[
+				"num_do",
+				"num_doc"
+			],
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"con",
+				"cons"
+			],
+			[
+				"AC",
+				"action\tAttr"
+			],
+			[
+				"b",
+				"background-image"
+			],
+			[
+				"consu",
+				"consultaBusqueda"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"ima",
+				"imagen1"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 156.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Scorpionv.1/aaa.html",
+		"/C/Users/Efrain/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/Scorpionv.1/css/style11.css",
+		"/C/xampp/htdocs/Scorpionv.1/clases/BD.php",
+		"/C/xampp/htdocs/Scorpionv.1/per.php",
+		"/C/xampp/htdocs/Scorpionv.1/personal.php",
+		"/C/xampp/htdocs/Scorpionv.1/clases/Graficos.php",
+		"/C/xampp/htdocs/Scorpionv.1/index.php",
+		"/C/xampp/htdocs/Scorpionv.1/menu.php",
+		"/C/xampp/htdocs/Scorpionv.1/registro.php",
+		"/C/xampp/htdocs/Scorpionv.1/tip_personal.php",
+		"/C/xampp/htdocs/Scorpionv.1/modificar.php",
+		"/C/xampp/htdocs/Scorpionv.1/admin.php",
+		"/C/xampp/htdocs/Scorpionv.1/empresa.php",
+		"/C/xampp/htdocs/Scorpionv.1/reporteexcel/reporteexcel.php",
+		"/C/xampp/htdocs/Scorpionv.1/validar.php",
+		"/C/xampp/htdocs/reporteexcel/reporteexcel/reporteexcel.php",
+		"/C/xampp/htdocs/Scorpionv.1/reporteexcel/lib/PHPExcel/PHPExcel/IOFactory.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/Scorpionv.1/SELECT SEC_TO_TIME((TIMESTAMPDIFF(MINUTE , h.fecha",
+		"/C/xampp/htdocs/Scorpionv.1/clases/modificar.php",
+		"/C/xampp/htdocs/Scorpionv.1/config.php",
+		"/C/Users/Efrain/Downloads/desca1/bd_registronet.sql",
+		"/C/xampp/htdocs/SED/pru.php",
+		"/C/xampp/htdocs/SED/bakup.dat",
+		"/C/xampp/htdocs/SED/clases/PHPExcel.php",
+		"/C/xampp/htdocs/SED/clases/PHPExcel/IOFactory.php",
+		"/C/Users/Efrain/Downloads/tb_sed.sql",
+		"/C/xampp/htdocs/SED/entregas_total.php",
+		"/C/xampp/htdocs/SED/clases/Graficos.php",
+		"/C/xampp/htdocs/SED/clases/BD.php",
+		"/C/xampp/htdocs/SED/Entrega.php",
+		"/C/xampp/htdocs/SED/validar.php",
+		"/C/xampp/htdocs/SED/config.php",
+		"/C/Users/Efrain/Downloads/bd_sed.sql",
+		"/C/xampp/htdocs/SED/aa.html",
+		"/C/xampp/htdocs/SED/save.php",
+		"/C/xampp/htdocs/SED/menu.php",
+		"/C/xampp/htdocs/Scorpionv.1/aa.html",
+		"/C/Users/Efrain/Downloads/Formulario-con-adjuntos/Formulario-con-adjuntos/entrega.html",
+		"/C/xampp/htdocs/SED/css/style.css",
+		"/C/xampp/htdocs/SED/index.html",
+		"/C/xampp/htdocs/Scorpionv.1/css/style.css",
+		"/C/xampp/htdocs/Scorpionv.1/css/style1.css",
+		"/C/Users/Efrain/Downloads/imn/efs/imei/mps_code.dat",
+		"/C/Users/Efrain/Downloads/Backup_IMEI/Backup_IMEI_170101195252/m9kefs3.img",
+		"/C/xampp/htdocs/Scorpion v.1/registro.php",
+		"/C/xampp/htdocs/Scorpion v.1/index.php",
+		"/C/xampp/htdocs/registronet/index.php",
+		"/C/Users/Efrain/AppData/Local/Microsoft/Windows/INetCache/IE/MDK6CMN1/efs_backup_2017-08-27_16-34-57.tar[1].gz",
+		"/C/xampp/htdocs/Scorpion/animaciones/index.html",
+		"/C/xampp/htdocs/Scorpion/animaciones/scaner.html",
+		"/C/xampp/htdocs/registronet/clases/Graficos.php",
+		"/C/xampp/htdocs/registronet/css/style1.css",
+		"/C/xampp/htdocs/registronet/animaciones/voz.html",
+		"/C/xampp/htdocs/registronet/scaner.php",
+		"/C/xampp/htdocs/registronet/validar.php",
+		"/C/xampp/htdocs/registronet/animaciones/scaner.html",
+		"/C/xampp/htdocs/museo/www/muffag/www/tb_clase/index.php",
+		"/C/xampp/htdocs/Scorpion/index.php",
+		"/C/xampp/htdocs/registronet/animaciones/archi.php",
+		"/C/xampp/htdocs/registronet/clases/BD.php",
+		"/C/xampp/htdocs/registronet/empresa.php",
+		"/C/xampp/htdocs/registronet/personal.php",
+		"/C/xampp/htdocs/registronet/css/style11.css",
+		"/C/xampp/htdocs/registronet/admin.php",
+		"/C/xampp/htdocs/registronet/menu.php",
+		"/C/xampp/htdocs/registronet/registro.php",
+		"/C/xampp/htdocs/registronet/per.php",
+		"/C/xampp/htdocs/museo/www/muffag/www/validar.php",
+		"/C/xampp/htdocs/registronet/index.html",
+		"/C/xampp/htdocs/registronet/css/bootstrap/css/bootstrap.css",
+		"/C/xampp/htdocs/registronet/menu.html",
+		"/C/xampp/htdocs/registronet/css/js/js11.js",
+		"/C/xampp/htdocs/registronet/estilo.css",
+		"/C/xampp/htdocs/registronet/buscar.php",
+		"/C/xampp/htdocs/registronet/conexion.php",
+		"/C/xampp/htdocs/registronet/scaner.html",
+		"/C/xampp/htdocs/registronet/voz.html",
+		"/C/xampp/htdocs/registronet/comandodevoz.html",
+		"/C/xampp/htdocs/registronet/config.php",
+		"/C/xampp/htdocs/registronet/busqueda.php",
+		"/C/Users/Efrain/Documents/efrain/proyectos/new_buscarid/toma.php",
+		"/C/Users/Efrain/Documents/efrain/proyectos/bd funciones/buscar.php",
+		"/C/xampp/htdocs/registronet/animaciones/index.html",
+		"/C/xampp/htdocs/registronet/css/style.css",
+		"/C/xampp/htdocs/registronet/animaciones/registro.php",
+		"/C/xampp/htdocs/registronet/animaciones/estyle.css",
+		"/C/xampp/htdocs/REGISTRO/plataforma/assets/css/style.css",
+		"/C/xampp/htdocs/REGISTRO/plataforma/index.html",
+		"/C/xampp/htdocs/registronet/tip_personal.php",
+		"/C/xampp/htdocs/registronet/clases/index.php",
+		"/C/xampp/htdocs/museo/www/muffag/www/tb_orden/index.php",
+		"/C/xampp/htdocs/museo/www/muffag/www/clases/BD.php",
+		"/C/xampp/htdocs/registronet/pru.php",
+		"/C/xampp/htdocs/registronet/pru.html",
+		"/C/xampp/htdocs/registronet/clases/tip_personal.php",
+		"/C/xampp/htdocs/registronet/css/.header {",
+		"/C/xampp/htdocs/plantilla1/index.html",
+		"/C/Users/Efrain/Documents/efrain/proyectos/museoinstaller/museoinstaller/www/muffag/www/validar.php",
+		"/C/Users/Efrain/Documents/efrain/proyectos/museoinstaller/museoinstaller/www/validar.php",
+		"/C/Users/Efrain/Downloads/bootstrap-login-forms/bootstrap-login-forms/form-1/index.html",
+		"/C/xampp/htdocs/REGISTRO/www/index.html",
+		"/C/xampp/htdocs/REGISTRO/www/config.php",
+		"/C/xampp/htdocs/REGISTRO/www/validar.php",
+		"/C/xampp/htdocs/REGISTRO/www/bd/bd.php",
+		"/C/xampp/htdocs/REGISTRO/www/bd/validar.php",
+		"/C/Users/Efrain/Documents/efrain/proyectos/museoinstaller/museoinstaller/www/muffag/www/clases/BD.php",
+		"/C/Users/Efrain/Documents/efrain/proyectos/museoinstaller/museoinstaller/www/muffag/www/clases/Graficos.php",
+		"/C/Users/Efrain/Documents/efrain/proyectos/museoinstaller/museoinstaller/www/muffag/www/clases/notas.txt",
+		"/C/xampp/htdocs/REGISTRO/instalador/validar.php",
+		"/C/xampp/htdocs/REGISTRO/instalador/instalando.php",
+		"/C/xampp/htdocs/REGISTRO/index.html",
+		"/C/xampp/htdocs/REGISTRO/instalador/index.php",
+		"/C/xampp/htdocs/REGISTRO/instalador/estilo.css",
+		"/C/xampp/htdocs/REGISTRO/instalador/www/config.php",
+		"/C/xampp/htdocs/plantilla1/css/creative.css",
+		"/C/xampp/htdocs/plantilla1/css/creative.min.css",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/superboot.php",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/init.php",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/view/changelog/widget-default.php",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/model/UserData.php",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/model/SentimentalData.php",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/model/ProfileData.php",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/model/PostImageData.php",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/model/NotificationData.php",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/model/MessageData.php",
+		"/C/xampp/htdocs/RCDSENAG/core/modules/index/model/LevelData.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

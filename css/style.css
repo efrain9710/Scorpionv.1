@@ -1,0 +1,27 @@
+.header {
+   	color: black; 
+   	/*background-image:url("../img/header.jpg");*/
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+}
+.body {
+    /*background-image:url("../img/header.jpg");*/
+
+}
+
+#table{
+	background:linear-gradient(30deg, RoyalBlue, Navy);
+	color: #fff;
+}
+
+.container-fluid{
+	background:linear-gradient(30deg, SkyBlue, RoyalBlue);
+}
+#formulario{
+	background:linear-gradient(30deg, SkyBlue, RoyalBlue);
+}
+.imagen:hover {filter: opacity(.5);}
